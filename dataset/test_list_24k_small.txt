@@ -1,0 +1,100 @@
+test_24k/test24k_0000000000.wav|t̪ˈoj tˌi2 t̪ˈoj ŋˈi5 zˈa2ŋ lˌaː2 hˈə2w hˈeɜt̪ t̪ˈəɜt̪ kˈaː4 |0
+test_24k/test24k_0000000001.wav|xˈe-ɜc zˈu lˈi6c kˈuəɜc t̪ˈeɜ vˌaː2 tʃˈɔŋ nˈyəɜc bˈoɜn |0
+test_24k/test24k_0000000002.wav|sˈəːn ɗˌaːŋ lˈaː2m ˈəː4 vˈiɛ6t̪ nˈaːm |0
+test_24k/test24k_0000000003.wav|ɗˌyə6c kˌaːɜj tʃˈiə2 t̪ˈaj ˈən kˈə2n kˌuə4 tʃˈi6 tʃˈiɛɜn |0
+test_24k/test24k_0000000004.wav|sˈe-6c nˈyəɜc sˈe-6c tʃˈɔŋ lˈɔ sˈyɜc xwˈɛ4 t̪ˈoɜt̪ |0
+test_24k/test24k_0000000005.wav|t̪wˈəɜn ˈe-ɲ ɗˈi kˈu2ŋ nˌen kˈo t̪ˈaː lˈaː2m zˈaː vˈɛ4 vˈo |0
+test_24k/test24k_0000000006.wav|kˌaːɜc bˈaːɜc sˈi5 kˈɔɜ tˈe4 tʃˈam sˈɔɜk ŋˈyə2j bˈe6ɲ |0
+test_24k/test24k_0000000007.wav|ˈɛm bˈəɪ zˈəː2 mˈəːɜj lˌaː2 hˈiɛ6n t̪ˈaː6j kˌuə4 ˈe-ɲ ˈəɪɜ |0
+test_24k/test24k_0000000008.wav|tˈoj ˈe-ɲ ɗˈy2ŋ nˈɔɜj zˈi2 nˈyə5 t̪ˈoj tʃˌyə ɗˈu4 xˈo4 |0
+test_24k/test24k_0000000009.wav|tʃˈyəɜc ˈan tˌi2 xˌoŋ sˈaːw ɲˌyŋ mˌaː2 t̪ˈoɜj nˈaj |0
+test_24k/test24k_0000000010.wav|ɲˌy5ŋ kˌaːɜj lˈiɜ twˈiɛɜt̪ kˌuə4 zˈiɛŋ mˈi2ɲ vˈe2 |0
+test_24k/test24k_0000000011.wav|sˈaw hˈəːn mˈo6t̪ vˈaː6n t̪ˈəɜn lˈyəŋ tˈy6c vˈiɛ6n tʃˈəː6 |0
+test_24k/test24k_0000000012.wav|sˈin kˈiɜɲ tʃˈaː2w kwˈiɜ vˈi6 xˈaːɜn zˈaː4 vˌaː2 kˌaːɜc bˈaː6n |0
+test_24k/test24k_0000000013.wav|nˈəːj ɗˈəɪ vˌaː2 ˈɛm tˈiɜc kˌɔn ŋˈyə2j ˈəː4 ɗˈəɪ ˈɛm |0
+test_24k/test24k_0000000014.wav|xˌoŋ tˈe4 nˈaː2w mˈəː4 lˈɔ2ŋ vˌəːɜj ˈaːj hˈaːj nˈam kwˈaː |0
+test_24k/test24k_0000000015.wav|kˈyəɜc ɗˌyə6c t̪ˈaɜm sˈuəɜj mˈi6n mˈaː2ŋ tʃˈaɜŋ sˈaːɜŋ |0
+test_24k/test24k_0000000016.wav|ŋˈiə5 lˌaː2 sˈiɜc ɗˈaː6w nˌeɜw mˌaː2 tʃˈuɜŋ t̪ˈaː zˈi6c |0
+test_24k/test24k_0000000017.wav|ŋˈa2j ɗˈəɪɜ ˈɛm kˈu5ŋ zˈəɜt̪ lˌaː2 tʃˈiɛɜn |0
+test_24k/test24k_0000000018.wav|kˌaːɜj kwˈaː6t̪ nˈəɜw nˈyəɜc fˈaː tʃˈaː2 kˈɔɜ mˈo6t̪ ˈoŋ lˈaː5w |0
+test_24k/test24k_0000000019.wav|sˈan kˈaː4m tˈəɪɜ lˌaː2 xˌi mˌaː2 mˈi2ɲ tʃˌyə kˈɔɜ t̪ˈiɛ2n |0
+test_24k/test24k_0000000020.wav|nˈyəɜc mˈɔ6k kˈɛn ɗˈəɪ2 fˈiəɜ kˈuəɜj ɗˈə2m |0
+test_24k/test24k_0000000021.wav|tˈəɪɜ kˌɔn ɣˈaːɜj bˈoɜ hˈo2ŋ ˈe-ɜɲ kwˈaɜc mˈaɜt̪ ɲˈi2n |0
+test_24k/test24k_0000000022.wav|bˈaː4n lˈi5ɲ t̪ˈy6 tʃˈi6 kˈu5ŋ kˈɔɜ tˈe4 sˈoɜŋ vˈy5ŋ |0
+test_24k/test24k_0000000023.wav|vˌəːɜj ˈiɜ t̪ˈyə4ŋ ˈe-ɲ ɗˈe2 swˈəɜt̪ kˈo sˌɛ5 vˈiɛɜt̪ vˈe2 |0
+test_24k/test24k_0000000024.wav|vˌaː2 mˌɔ6j ŋˈyə2j sˌɛ5 kˈɔɜ mˈo6t̪ kˌaːɜj t̪ˈəm lˈiɜ zˈəɜt̪ lˌaː2 |0
+test_24k/test24k_0000000025.wav|ɗˌe4 ɣˈɔ6j lˌaː2 sˈɛɜt̪ kˌaːɜj tʃˈi2ɲ ɗˈo6 t̪ˈiɛɜŋ ˈe-ɲ kˌuə4 kˌɔn ɗˌe4 tʃˈyɜŋ ɲˈə6n kˌaːɜj tʃˈi2ɲ ɗˈo6 t̪ˈiɛɜŋ ˈe-ɲ kˌuə4 kˌɔn |0
+test_24k/test24k_0000000026.wav|tʃˈəː2j lˈuən vˈe2 ɗˈi mˈaːɜ mˈa2j tʃˈeɜt̪ zˈo2j kˈiə2 |0
+test_24k/test24k_0000000027.wav|lˈe-5ɲ ɗˈaː6w hˈə2w hˈeɜt̪ ɗwˈaː6t̪ hˈɔ6k vˈi6 vˌaː2 hˈɔ6k hˈaː2m |0
+test_24k/test24k_0000000028.wav|hˈyəɜ hˈɛ6n ɲˌyŋ kwˈaː ɗˈɔɜ ˈe-ɲ kˈu5ŋ fˌaː4j kˈɔɜ |0
+test_24k/test24k_0000000029.wav|kˈɔɜ lˈɛ5 tˈeɜ kˈu5ŋ lˌaː2 vˈiɛ6c ɗˈaːɜŋ lˈaː2m |0
+test_24k/test24k_0000000030.wav|t̪ˈaː ɗˈi sˈan vˈəɪ6 mˌaː2 kˈaː4 ɲˈaː2 lˌuɜc nˈaː2w kˈu5ŋ ˈan |0
+test_24k/test24k_0000000031.wav|ɗwˈaː2n vˈiɛn hˈa5j zˈu5ŋ kˈaː4m sˈoŋ lˈen tʃˈaː4 tˈu2 |0
+test_24k/test24k_0000000032.wav|lˈəɪɜ t̪ˈuɜj kwˈə2n ˈaːɜw zˈo2j tʃˈa6j sˈuəɜŋ tʃˈa6j |0
+test_24k/test24k_0000000033.wav|vˌaː2 t̪ˈiɲ tˈə2n t̪ˈəm lˈiɜ kˈɔɜ kˈaŋ tˈa4ŋ hˈəːn |0
+test_24k/test24k_0000000034.wav|ɗˈyəɜ ɗˌaː5 xˈaːɜc sˈaː ɲˈaw zˈo2j |0
+test_24k/test24k_0000000035.wav|kˈuəɜc t̪ˈeɜ tˈoŋ tˈyə2ŋ mˌaː2 tʃˈuɜŋ kˌɔ2n kˈy6c kˈi2 |0
+test_24k/test24k_0000000036.wav|sˈəːɜm hˈəːn vˌəːɜj tˈa2ŋ tʃˈaɜw kˌuə4 ˈoŋ |0
+test_24k/test24k_0000000037.wav|lˌaː2 ŋˈa2j t̪ˈaː6m bˈiɛ6t̪ kˌuə4 hˈaːj kˈo bˈaː6n xwˈiɛn |0
+test_24k/test24k_0000000038.wav|ˈɛm ˈan bˈaːɜt̪ t̪ˈɔ zˈo2j mˌaː2 xˌoŋ t̪ˈin ˈe-ɲ kˈyɜ hˈɔ4j |0
+test_24k/test24k_0000000039.wav|sˈaːɜŋ hˈom sˈaw xˌi t̪ˈoj vˈyə2 zˈu2ŋ sˈɔŋ bˈyə5 |0
+test_24k/test24k_0000000040.wav|t̪ˈaɜm sˈɔŋ kwˈaj tʃˈəː4 lˈaː6j tˈəɪɜ tˈiɛn lˈɔŋ |0
+test_24k/test24k_0000000041.wav|hˈə2w hˈeɜt̪ kˌaːɜc tʃˈiɛ6w fˈuɜ vˌaː2 t̪ˈi4 fˈuɜ ŋˈa2j nˈaj |0
+test_24k/test24k_0000000042.wav|sˈaːɜŋ hˈom sˈaw t̪ˈoj zˈəɪ6 sˈəːɜm ɗˈi lˈaː2m ɗˌaː5 tˈəɪɜ |0
+test_24k/test24k_0000000043.wav|xˌoŋ bˈaːw zˈəː2 t̪ˈoj sˌɛ5 hˈe-2ɲ hˈaː6 kˈo ɗˌeɜn tʃˈeɜt̪ |0
+test_24k/test24k_0000000044.wav|ˈe-ɲ kwˈaːɜ bˈəɜt̪ ŋˈəː2 vˌi2 ŋˈyə2j ɣˈɔ6j tʃˌɔ ˈe-ɲ |0
+test_24k/test24k_0000000045.wav|tˈe4 zˈaː4j kwˈiɛɜt̪ ɗˌyə6c zˈi2 hˈɔ6 kˈɔɜ ŋˈiɛ6p vˈu6 |0
+test_24k/test24k_0000000046.wav|t̪ˈaː4n mˈaːɜt̪ zˈə2n vˈaː6n kˈu5ŋ kwˈaj lˈyŋ bˈyəɜc ɗˈi |0
+test_24k/test24k_0000000047.wav|ɗˌaːŋ bˈan xwˈan tʃˌyə bˈiɛɜt̪ tʃˈɔ6n zˈi2 t̪ˈiɛɜp |0
+test_24k/test24k_0000000048.wav|t̪ˈaː6j vˌi2 t̪ˌy2 tʃˈyəɜc ɗˌeɜn zˈəː2 ɲˌy5ŋ kˌaːɜj zˈi2 mˌaː2 |0
+test_24k/test24k_0000000049.wav|kˌɔn vˈəɪ6 mˌaː2 tʃˈi4 mˈo6t̪ tʃwˈiɛ6n ɗˈəːn zˈaː4n lˌaː2 |0
+test_24k/test24k_0000000050.wav|tʃˈim ɗˌeɜn tˈəː2j t̪ˈiɛɜt̪ ɗˌeɜn t̪ˈəm tʃˈaː6ŋ kˌuə4 |0
+test_24k/test24k_0000000051.wav|tˈyə2ŋ ɲˌyŋ mˌaː2 mˈi2ɲ tʃˌɔ mˈi2ɲ tˈəː2j zˈaːn |0
+test_24k/test24k_0000000052.wav|kˈə2n fˌaː4j kˈaː4m tˈəɪɜ ˈaɜj nˈaɜj ˈe-ɲ xˌoŋ kˈɔɜ |0
+test_24k/test24k_0000000053.wav|ŋˈoɜk nˈa2j kˈo ˈaːn t̪wˈaː2n zˈo2j kˈo ŋˈi4 ŋˈəːj tʃˌɔ |0
+test_24k/test24k_0000000054.wav|tˈɛw ɲˌy mˈi2ɲ ɗˈuɜŋ kˈe-ɜc lˌaː2 ɲˌy tˈeɜ nˈaː2w |0
+test_24k/test24k_0000000055.wav|mˈuəɜn vˈaː2w fˈu4 lˈaː2m vˈiɛ6c ŋwˈaː2j kˈiə ɗˈə1w kˈɔɜ |0
+test_24k/test24k_0000000056.wav|kˈyɜ bˈuə2n bˈuə2n xˌoŋ tˈe4 nˈaː2w zˈiɛ5n t̪ˈaː4 ɗˌyə6c |0
+test_24k/test24k_0000000057.wav|zˈe5 hwˈaː2 t̪ˈaːn vˌaː2 kˈɔɜ mˈu2j tˈəːm hˈəːn ɗˈo6t̪ ɲˈiɛn |0
+test_24k/test24k_0000000058.wav|ɲˌyŋ mˌaː2 mˈi2ɲ kˈu5ŋ vˌə5n kˌɔ2n ɗˈu4 tʃˈɛ4 ɗˌe4 |0
+test_24k/test24k_0000000059.wav|sˈaːw mˌaː2 ɗˈuə4j ɗˌyə6c tˈy6c t̪ˈeɜ lˌaː2 tʃˈi6 ˈəɪɜ zˈuɜp |0
+test_24k/test24k_0000000060.wav|ɗˈəɪ lˌaː2 ɗˈo2 tʃˈaːŋ sˈyɜc kˌuə4 vˈəː6 t̪ˈoj xˌi kˌɔ2n |0
+test_24k/test24k_0000000061.wav|ˈe-ɲ t̪ˈyə4ŋ t̪ˈi2ɲ ˈiɛw kˈu5ŋ ɲˌy kˈiɲ zwˈe-ɲ |0
+test_24k/test24k_0000000062.wav|hwˈe-2ɲ lˈə5n bˈaː2 kˈiɛ2w wˈe-ɲ bˈaː2 tˈəː4 hˈo4n hˈe4n |0
+test_24k/test24k_0000000063.wav|kˈɔɜ mˈo6t̪ tʃˈɔŋ ɲˌy5ŋ kˌaːɜj ɗˈiɛ2w mˌaː2 ˈe-ɲ kˈaː4m |0
+test_24k/test24k_0000000064.wav|t̪ˌəːɜj ŋˈa2j hˈom ɗˈɔɜ vˌi2 kˈɔɜ ŋˈɔ6k ˈiɛɜn tʃˈu4 ɗˈo6ŋ |0
+test_24k/test24k_0000000065.wav|ˈe-ɲ sˈiɲ sˈoɜŋ bˈa2ŋ ŋˈe2 zˈi2 ˈəː4 tˈe-2ɲ fˈoɜ |0
+test_24k/test24k_0000000066.wav|nˈyə5 t̪wˈi ɲˈiɛn ɗˈiɛ2w ɗˈaːɜŋ ɗˌe4 mˈaɜt̪ ɲˈəɜt̪ lˌaː2 |0
+test_24k/test24k_0000000067.wav|hˈaj xˈɔɜ xˈan hˈəːn mˈo6t̪ tʃˈuɜt̪ ɲˌyŋ ɗˈɔɜ tʃˈi4 |0
+test_24k/test24k_0000000068.wav|kˈiɛ4m tʃˈaː mˈo6t̪ lˈyə6t̪ tˈaɜc mˈaɜc vˌəːɜj tˈy kˈiɜ |0
+test_24k/test24k_0000000069.wav|vˌaː2 ŋwˈaː2j zˈaː tˌi2 tʃˈi6 tˈəɪɜ lˌaː2 ŋwˈaː2j kˌaːɜj |0
+test_24k/test24k_0000000070.wav|zˈy6 bˌi6 vˈe2 zˈi tʃwˈiɛ4n ɗˈyə2ŋ bˈo6 t̪ˈəɜt̪ kˈaː4 ɲˌy5ŋ |0
+test_24k/test24k_0000000071.wav|ɗˌaː5 kˈɔɜ zˈe-ɲ sˈe-ɜc t̪ˌy2 ɗˈi hˈɔ6k ˈaː tʃˈyə4ŋ |0
+test_24k/test24k_0000000072.wav|xˌi sˈaɜp t̪ˌəːɜj ɗˈəɪ fˌaː4j ɗˈoɜj mˈa6t̪ vˌəːɜj ɲˌy5ŋ |0
+test_24k/test24k_0000000073.wav|tˌi2 ˈɛm kˈu5ŋ xˌoŋ kˈɔɜ kwˈiɛ2n tˈaːn tˈəː4 |0
+test_24k/test24k_0000000074.wav|ɗˌe4 kˈɔɜ tˈe4 sˈiɲ hwˈaː6t̪ ɗˌe4 kˈɔɜ tˈe4 |0
+test_24k/test24k_0000000075.wav|lˈe-6ɲ tʃˈa6j zˈɔ6k sˈoɜŋ lˈyŋ t̪wˈiɛ6t̪ ɲˈiɛn kˈu5ŋ |0
+test_24k/test24k_0000000076.wav|kˌuə4 tˈi6 tʃˈyə2ŋ vˈe2 t̪ˈoɜk ɗˈo6 fˈaːɜt̪ tʃˈiɛ4n kˌuə4 |0
+test_24k/test24k_0000000077.wav|t̪ˈoj xˌoŋ bˈiɛɜt̪ nˌen tʃˈaː4 lˈəː2j kˈo ˈəɪɜ tˈeɜ nˈaː2w |0
+test_24k/test24k_0000000078.wav|nˌen lˌaː2 mˌɔ6j ŋˈyə2j zˈu2ŋ kˌaːɜj nˈa2j tˌi2 nˈɔɜ sˌɛ5 |0
+test_24k/test24k_0000000079.wav|tʃˈəː2 ɗˈəː6j kˈo ɗˌyə6c ɣˈɔ6j ɗˈi lˈaː2m t̪ˈaː6j kˈoŋ t̪ˈi |0
+test_24k/test24k_0000000080.wav|ŋˈyə2j kˈu2ŋ ɲˈaw t̪ˈiɜɲ t̪wˈaːɜn kˈɔɜ tʃˈiɛɜn lˈyə6c |0
+test_24k/test24k_0000000081.wav|lˈəm hˈiɛ4w mˈɛ6 xˌoŋ nˈɔɜj zˈaː ɗˈiɛ2w kwˈaːn tʃˈɔ6ŋ |0
+test_24k/test24k_0000000082.wav|kwˈə2n ˈaːɜw zˈəɜt̪ kwˈaːn tʃˈɔ6ŋ vˌəːɜj fˈu6 nˈy5 tʃˈɔŋ |0
+test_24k/test24k_0000000083.wav|ɗˌyə6c mˈi2ɲ zˈaː ɗˈə1w tˈoj ɗˌaː5 mˈəː2j kˌaːɜc ˈoŋ ɗˌeɜn |0
+test_24k/test24k_0000000084.wav|tʃˈi4 sˈəː6 lˌaː2 vˈaː2j fˈuɜt̪ nˈyə5 kˈo tˈə6t̪ sˈy6 xˌoŋ |0
+test_24k/test24k_0000000085.wav|nˈa2j nˈa2j mˌaː2 mˈi2ɲ ŋˈɛ ɗˈo2n lˌaː2 ˈəː4 lˈaː6ŋ sˈəːn |0
+test_24k/test24k_0000000086.wav|mˈaːŋ ɲˌy5ŋ kˌaːɜj kˈə1w tʃwˈiɛ6n zˈaː ɗˈi2ɲ kˌuə4 |0
+test_24k/test24k_0000000087.wav|sˈaːɜŋ tʃˈi4 zˈy2ŋ lˈaː6j ˈəː4 ɲˌy5ŋ nˈu6 hˈon hwˌa6c |0
+test_24k/test24k_0000000088.wav|kˈaː4 kˌaːɜj xˈe-ɜc sˈaː6n t̪ˈɔ ɗˈu2ŋ nˈa2j mˈi2ɲ mˈuəɜn |0
+test_24k/test24k_0000000089.wav|vˈiɜ zˈu6 ɲˌy mˈi2ɲ nˈɔɜj nˌeɜw mˌaː2 ŋˈa2j sˈyə tˌi2 |0
+test_24k/test24k_0000000090.wav|ŋˈyə2j ɗˈəː2j ɲˌyŋ kˈəɪ ŋˈaj xˌoŋ sˈəː6 tʃˈeɜt̪ |0
+test_24k/test24k_0000000091.wav|lˌuɜc ɗˈɔɜ tʃˈuəŋ ɗˈiɛ6n twˈaː6j vˈaːŋ lˈen t̪ˈoj |0
+test_24k/test24k_0000000092.wav|mˈəːɜj tˈəɪɜ bˈaː2 ˈəɪɜ ɗˈuɜŋ ɲˌy lˈəː2j kˈo kˈe4 vˈyə2 |0
+test_24k/test24k_0000000093.wav|nˌen kˈo mˈəːɜj sˈəː6 nˈɔɜ ɗˈi |0
+test_24k/test24k_0000000094.wav|sˈiɛn tʃˈa6t̪ t̪ˈaj t̪ˈoj xˌoŋ zˈaːɜm mˈəː4 mˈiɛ6ŋ nˈɔɜj |0
+test_24k/test24k_0000000095.wav|kˈuəɜj kˈu2ŋ ˈɛm ɗˈe2w xˌoŋ lˈaː2m ɗˌyə6c zˈi2 hˈeɜt̪ |0
+test_24k/test24k_0000000096.wav|ɗˌe4 t̪ˈi2m vˈi6 tʃˈiɜ mˈaɜc vˈɔ5ŋ t̪ˈoj ɲˈi2n tˈəɪɜ |0
+test_24k/test24k_0000000097.wav|t̪ˈoj lˌaː2 t̪ˈoj kˈyɜ fˌaː4j tʃˈa6j zˈaː tʃˌɔ tʃˈaɜc zˈo2j |0
+test_24k/test24k_0000000098.wav|sˈaw ɗˈɔɜ ɗˈyə zˈaː kwˈiɛɜt̪ ɗˈi6ɲ lˌaː2 t̪ˈaː6m sˈaː ɲˈaw |0
+test_24k/test24k_0000000099.wav|kwˈaj lˈaː6j ɗˈi tˈə6t̪ lˌaː2 sˈaɜc nˈɛɜt̪ tʃˌɔ t̪ˈoj |0

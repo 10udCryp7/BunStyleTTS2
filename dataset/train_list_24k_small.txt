@@ -1,0 +1,100 @@
+train_24k/train24k_0000000000.wav|tˈeɜ mˌaː2 hˈom nˈaj lˈaː6j ŋˈɛ ˈɛm ɣˈaːɜj ɲˈaɜc ɗˌeɜn |0
+train_24k/train24k_0000000001.wav|kˌaːɜc vˈəɜn ɗˈe2 ˈi hˈɔ6k tʃwˈiɛn xwˈaː hwˌa6c ˈyɜŋ |0
+train_24k/train24k_0000000002.wav|xˌoŋ ɗˌyə6c vˈe2 ɲˈaː2 ˈan t̪ˈeɜt̪ tˌi2 lˌaː2 nˈam nˈaj |0
+train_24k/train24k_0000000003.wav|lˈaː6j hˈaːj bˈen nˌen kˈu5ŋ wˈaː4j lˈaɜm ɲˌyŋ vˌə5n |0
+train_24k/train24k_0000000004.wav|ˈaːj tʃˌɔ fˈɛɜp ˈɛm ˈuəɜŋ ɲˈiɛ2w zˈyə6w ɲˌy vˈəɪ6 |0
+train_24k/train24k_0000000005.wav|mˈɛ6 sˈɛm mˈɛ6 t̪ˈoj tʃˈi4 ɗˈo6ŋ vˈiɛn zˈo2j zˈa6n zˈɔ2 |0
+train_24k/train24k_0000000006.wav|nˈɔɜ sˌɛ5 ɗˈɛm lˈaː6j tʃˌɔ kˌɔn hˈe-6ɲ fˈuɜc mˈaː5j mˈaː5j |0
+train_24k/train24k_0000000007.wav|ɗˈaː2n ˈoŋ lˌaː2 tˈeɜ tʃˈəːj vˌəːɜj ɲˈaw tˈən tˈiɛɜt̪ |0
+train_24k/train24k_0000000008.wav|mˌaː2 kˌaːɜc bˈaː6n ɗˌe4 mˈaɜj ˈəː4 mˈo6t̪ vˈi6 tʃˈiɜ zˈəɜt̪ lˌaː2 kˈoɜ |0
+train_24k/train24k_0000000009.wav|mˈəːɜj zˈo2j ˈɛm ɣˈa6p mˈɛ6 kˌɔn kˈiɛ2w lˈiɛn ˈəː4 tʃˈəː6 |0
+train_24k/train24k_0000000010.wav|t̪ˈy4 t̪ˈeɜ xˌi zˈy5 lˈaː6j mˈaː6ŋ t̪ˈaː2n fˈeɜ tʃˌɔ mˈa2j |0
+train_24k/train24k_0000000011.wav|ŋˈaː6j ŋˈə2n nˈyə5 mˌaː2 nˈa2m vˈaː2w xˌi kˈe-ɜɲ t̪ˈaj |0
+train_24k/train24k_0000000012.wav|ɗˈɛm tʃˈaː vˈe2 mˈyəɜn ˈi t̪ˈaːɜ tʃˈam sˈɔɜk kˌɔn bˈiɛɜt̪ |0
+train_24k/train24k_0000000013.wav|ɗˈi zˈaː ŋwˈaː2j vˈyə2 mˈəː4 kˈyə4 ɲˈi2n tˈəɪɜ nˈaːm |0
+train_24k/train24k_0000000014.wav|tˈem mˈo6t̪ ɗˈiɛ2w nˈyə5 ˈe-ɲ mˈuəɜn t̪ˈəm sˈy6 vˌəːɜj ˈɛm |0
+train_24k/train24k_0000000015.wav|tʃˌɔ vˈəː6 sˈin tʃˈi6 vˈe2 ɲˈaː2 ɣˈa6p ˈe-ɲ ɗˌe4 nˈɔɜj |0
+train_24k/train24k_0000000016.wav|tʃˌa4ŋ kˈɔɜ tʃwˈiɛ6n zˈi2 mˌaː2 nˈɔɜj kˈaː4 tˌi2 kˈyɜ ŋˈo2j |0
+train_24k/train24k_0000000017.wav|ɲˈiɛ2w kˈoŋ t̪ˈi mˈəː2j lˈaː2m kˈoɜ vˈəɜn |0
+train_24k/train24k_0000000018.wav|tˈaj ɗˈo4j ɲˌyŋ nˈɔɜ vˌə5n lˌaː2 t̪ˈiɛw tʃwˈə4n hwˈaː6t̪ |0
+train_24k/train24k_0000000019.wav|ˈe-ɲ lˈɔŋ tˈən mˈeɜn ˈe-ɲ ɗˈɔ6k sˈɔŋ zˈɔ2ŋ nˈa2j |0
+train_24k/train24k_0000000020.wav|xˈu4ŋ xˈiɛɜp ɲˌy kˌɔn kwˈaːɜj vˈə6t̪ mˈuəɜn ɲˈo4 |0
+train_24k/train24k_0000000021.wav|tˌi2 mˈi2ɲ sˌɛ5 xˌoŋ ŋˈə2n ŋˈaː6j vˌaː2 ɲˈaɜc t̪ˌəːɜj kˌaːɜj mˈoɜj t̪ˈi2ɲ ɗˈɔɜ |0
+train_24k/train24k_0000000022.wav|ɗˌe4 mˌaː2 mˈi2ɲ tˈu lˈaː6j ɗˌyə6c ɲˈiɛ2w tˈyɜ xˈaːɜc |0
+train_24k/train24k_0000000023.wav|lwˈaːn tˈoɜt̪ lˈen tˈə6t̪ tˈeɜ hˈaː4 ˈe-ɲ kˈə1w hˈɔ4j |0
+train_24k/train24k_0000000024.wav|bˈiɛɜt̪ nˌeɜw xˌoŋ kˈɔɜ kˌɔn mˈɛ6 sˌɛ5 zˈəɜt̪ bˈuə2n |0
+train_24k/train24k_0000000025.wav|kˈo lˈaː6j ɗˈi6ɲ lˈyən lˈɛ6w t̪ˈoj ɗˈəɪɜ ˈaː2 xˌoŋ t̪ˈoj |0
+train_24k/train24k_0000000026.wav|vˈəɪ6 tˌi2 kˈaɜm kˈuɜj vˈaː2w lˈaː2m vˈiɛ6c t̪ˈiɛɜp kˌɔ2n |0
+train_24k/train24k_0000000027.wav|tʃˈən tˌi2 zˈə5m ɗˈu2ŋ ɗˈu2ŋ t̪ˈaj tˌi2 lˈə6p t̪ˈyɜc |0
+train_24k/train24k_0000000028.wav|ɗˈaːɜm ɗˈoŋ tˌi2 sˌɛ5 zˈe5 zˈaː2ŋ xˈiɛɜn tʃˌɔ ɗˈoɜj |0
+train_24k/train24k_0000000029.wav|nˌeɜw xˌoŋ tˈe4 lˌaː2 mˈo6t̪ ŋˈyə2j kˈo6ŋ sˈaː4n nˈaː2ŋ |0
+train_24k/train24k_0000000030.wav|kˈu2ŋ tˌi2 nˈam mˈəːɜj kˈu5ŋ ɗˌeɜn tˈə6t̪ tʃˈɔ6n vˈɛ6n |0
+train_24k/train24k_0000000031.wav|hˈəː6p t̪ˈaːɜc ˈe-ɲ mˈəːɜj bˈiɛɜt̪ tʃˈuɜ ˈəɪɜ vˈyə2 mˈəːɜj |0
+train_24k/train24k_0000000032.wav|tʃwˈə4n bˌi6 ɗˈaːɜm kˈyəɜj nˌen kˌaːɜc kˈo lˈaː2m zˈaː zˈəɜt̪ |0
+train_24k/train24k_0000000033.wav|t̪ˈəɜt̪ kˈaː4 tʃˈi4 zˈy2ŋ lˈaː6j ˈəː4 ɗˈɔɜ tˈoj bˌəː4j lˈuj zˈaː |0
+train_24k/train24k_0000000034.wav|t̪ˈy nˈaːm ɣˈɔ6j lˌaː2 zˈi2 kˈu5ŋ ɗˌyə6c ɲˌyŋ t̪ˈoj |0
+train_24k/train24k_0000000035.wav|ɗˈəɪɜ mˈa2j kˈyɜ ˈiɛn t̪ˈəm ɗˈi xˌoŋ sˈəː6 xˌoŋ kˈɔɜ |0
+train_24k/train24k_0000000036.wav|zˈu6ŋ kˈu6 kˈim tʃˈi4 kˌuə4 fˈə5w twˈə6t̪ ˈoɜŋ t̪ˈiɛw |0
+train_24k/train24k_0000000037.wav|ˈaːɜp lˈy6c kˌuə4 ɲˌy5ŋ ɗˈiɛ2w kˈiɛ6n xˈɔɜ xˈan ɲˈəɜt̪ |0
+train_24k/train24k_0000000038.wav|tʃˈen mˈa6t̪ ɗˈəɜt̪ mˌaː2 tʃˈaː4 kˌɔ2n hˈaːj bˈaː2n t̪ˈaj tˌi2 |0
+train_24k/train24k_0000000039.wav|kˈyə2j xwˈɛ t̪wˈaː2n zˈən lˈaːw ɗˈo6ŋ nˈyəɜc ŋwˈaː2j |0
+train_24k/train24k_0000000040.wav|t̪ˈaː vˌaː2 ŋˈyə2j ˈəɪɜ vˌə5n lˌaː2 hˈaːj kˈaːɜ tˈe4 ɗˈo6k lˈə6p |0
+train_24k/train24k_0000000041.wav|hˈaːj tʃˈi6 ˈɛm bˈe mˈəm bˈaːɜt̪ sˈuəɜŋ zˈiɛɜŋ zˈyə4 |0
+train_24k/train24k_0000000042.wav|tʃˈɔŋ t̪ˈə6p tˈyɜ bˈa4j kˈu5ŋ lˌaː2 mˈo6t̪ |0
+train_24k/train24k_0000000043.wav|tˈyəŋ tʃˈaː mˈɛ6 bˌəː4j vˌi2 sˈaːw bˌəː4j vˌi2 kˈɔɜ kˌaːɜj |0
+train_24k/train24k_0000000044.wav|ɗˌeɜn vˌəːɜj ɲˌy5ŋ tʃˈiə sˈɛ4 tʃˈən tˈe-2ɲ vˌaː2 ɗˈaːɜŋ |0
+train_24k/train24k_0000000045.wav|ŋˈa2j kˌɔ2n lˈaː6j kˌuə4 tʃˈə1w sˌɛ5 zˈəɜt̪ ˈiɜt̪ tʃˈəː2j ˈəːj |0
+train_24k/train24k_0000000046.wav|mˈu2j tˈuəɜc nˈo2ŋ nˈa6c bˈaːw tʃˈu2m xˈaɜp fˈɔ2ŋ |0
+train_24k/train24k_0000000047.wav|ˈɛm bˈɔ6k tʃˈɔŋ kˌaːɜj t̪ˈəɜm ˈaːɜw kˈu5 kˌuə4 bˈaːɜc ɗˈɛm |0
+train_24k/train24k_0000000048.wav|ɗˈa2ŋ sˈaw tʃˈi6 hˈaː4 zˈu6ŋ mˈo6t̪ kˌaːɜj zˈu6ŋ t̪ˈɔɜk |0
+train_24k/train24k_0000000049.wav|mˈaɜt̪ vˈən ɲˈi2n bˈaː4w ɲˌy bˈə6t̪ kˈaː4 mˈaɜw vˈən |0
+train_24k/train24k_0000000050.wav|sˈuŋ fˈɔŋ bˈaː4w ɗˈaː4m zˈaːw tˈoŋ nˈəːj t̪wˈiɛɜn |0
+train_24k/train24k_0000000051.wav|ɲˌyŋ vˌə5n xˌoŋ twˈaːɜt̪ xˈɔ4j vˈɔ2ŋ zˈəɪ bˈuə6c |0
+train_24k/train24k_0000000052.wav|kˈu2ŋ vˌəːɜj mˈɛ6 zˈaː2 zˈyəɜj tʃˈən nˈuɜj kˈim kˈyəŋ |0
+train_24k/train24k_0000000053.wav|tʃˈuɜŋ tʃˈiɛɜm kˈyə2j t̪ˈoj bˈiɛɜt̪ nˈɔɜ tˈəɜm zˈo2j |0
+train_24k/train24k_0000000054.wav|tˈaːɜŋ hˈe-6ɲ fˈuɜc bˈen zˈaː ɗˈi2ɲ mˈi2ɲ tʃˈuɜc |0
+train_24k/train24k_0000000055.wav|sˈaːɜŋ tʃˌa4ŋ tˈəɪɜ vˈe2 ɗˌaːŋ ɗˈi6ɲ ɲˈaɜn t̪ˈin |0
+train_24k/train24k_0000000056.wav|kˌɔn fˌaː4j ɗˈaː6t̪ ɗˌyə6c mˈu6c t̪ˈiɛw kˌuə4 mˈi2ɲ lˌaː2 |0
+train_24k/train24k_0000000057.wav|tʃˈuŋ kˈiɛn ɲˈi2n bˈaː4w ˈaːn kˈə2m t̪ˈo kˈəːm t̪ˈɔ |0
+train_24k/train24k_0000000058.wav|kˌaːɜc bˈaː6n ɲˈəːɜ vˈe6 sˈiɲ sˈe-6c sˌɛ5 sˈaw xˌi mˌaː2 |0
+train_24k/train24k_0000000059.wav|vˈe2 fˈiəɜ kˌɔn ɗˈəːn zˈaː4n lˌaː2 vˌi2 kˌɔn ɗˈuɜŋ vˌaː2 |0
+train_24k/train24k_0000000060.wav|t̪ˈiɛ2n bˈaː6c tˈeɜ nˈaː2w ɗˌe4 kˌɔn kˈɔɜ tˈem ˈiɜ vˈiɛɜt̪ |0
+train_24k/train24k_0000000061.wav|tˈy zˈaː5n ɲˌyŋ ɣˈa6p ˈɛm tˌi2 ˈe-ɲ tʃˈaː4 kˌɔ2n |0
+train_24k/train24k_0000000062.wav|kˌaːɜj t̪ˈiɜɲ t̪wˈaːɜn t̪ˈo4ŋ kwˈaːn kˈɔɜ mˈo6t̪ kˌaːɜj ɲˈi2n |0
+train_24k/train24k_0000000063.wav|fˈə2n bˈaj tʃˈɔŋ zˈɔɜ vˌaː2 tʃˈɔŋ ɗˈoj mˈaɜt̪ ɗˈɛ6p |0
+train_24k/train24k_0000000064.wav|lˈa6ŋ lˈɛ5 zˈɔ5j tˈɛw ŋˈyə2j ɗˈɔɜ mˈo6t̪ tˈyɜ t̪ˈi2ɲ |0
+train_24k/train24k_0000000065.wav|tˈɛw ɲˌy tʃˈuɜ t̪wˈaː2n nˈɔɜj tˌi2 kˌɔn bˈɛɜ ɗˌaːŋ |0
+train_24k/train24k_0000000066.wav|nˈɛ2 tˌi2 nˌeɜw mˌaː2 ɗˌe4 xˌoŋ lˈaː2m mˈi2ɲ xˈɔɜ tʃˈi6w |0
+train_24k/train24k_0000000067.wav|xˌoŋ tʃˈi6w hˈɔ6k hˈɔ4j bˈaː6n bˈɛ2 sˈe-ɜc bˈaːɜw ɗˌe4 |0
+train_24k/train24k_0000000068.wav|lˌaː2 bˈoɜ kˌɔn sˌɛ5 lˈuən zˈɔ5j tˈɛw hˈaːj mˈɛ6 kˌɔn |0
+train_24k/train24k_0000000069.wav|t̪ˈiɲ tˈə2n kˈu5ŋ ɲˌy bˈen ŋwˈaː2j sˈaː5 hˈo6j |0
+train_24k/train24k_0000000070.wav|bˈuə4j t̪ˈoɜj hˈom nˈaj lˈuən nˈaː2w ɗˌeɜn xˈɔɜ ŋˈu4 |0
+train_24k/train24k_0000000071.wav|sˈin lˈo5j ɗˌaː5 vˈe2 mˈuə6n lˈaː2m bˈaː mˈəː6 mˈəɜt̪ ŋˈu4 |0
+train_24k/train24k_0000000072.wav|ɗˌyə6c ɗˈiɜɲ kˈɛ2m tʃˈen ˈyɜŋ zˈu6ŋ |0
+train_24k/train24k_0000000073.wav|mˈo6t̪ fˈə2n nˈyə5 lˌaː2 tˌi2 mˈi2ɲ kˈu5ŋ sˈəː6 zˈa2ŋ lˌaː2 |0
+train_24k/train24k_0000000074.wav|ɲˌy ŋˈyə2j t̪ˈaː kwˈaːɜ ˈyəɜc zˈi2 bˈəɪ zˈəː2 nˈɔɜ bˈɛɜw |0
+train_24k/train24k_0000000075.wav|kˌaːɜc kˈəɜp tʃˈiɜɲ kwˈiɛ2n vˌaː2 kˈəː kwˈaːn tˈy6c tˈi |0
+train_24k/train24k_0000000076.wav|lˈɔ2ŋ tˌi2 t̪ˈoj ɲˈi2n ˈe-ɲ ˈe-ɲ bˈiɛɜt̪ ˈiɜ ɗˈaːɜp lˈəː2j |0
+train_24k/train24k_0000000077.wav|vˌəːɜj t̪wˈaː2n tˈe4 kˈo6ŋ ɗˈo2ŋ tʃˈəɜp ɲˈə6n vˌaː2 tˈy6c |0
+train_24k/train24k_0000000078.wav|kˌɔn xˌoŋ fˌaː4j vˈe2 ɗˈə1w zˈuə6ŋ ˈəː4 ɲˈaː2 mˈɛ6 lˈɔ |0
+train_24k/train24k_0000000079.wav|sˈyɜc xwˈɛ4 kˌuə4 kˈo bˈəɪ zˈəː2 vˌə5n tʃˌyə t̪ˈoɜt̪ ɗˈə1w |0
+train_24k/train24k_0000000080.wav|tʃˌɔ ŋwˈi hˈiɛ4m tˈoj ˈoŋ bˈaː2 ɲˈi2n t̪ˈoj hˈɔ4j |0
+train_24k/train24k_0000000081.wav|vˈu5 xˈiɜ hˈəːn ɲˌyŋ nˈɔɜ lˈaː6j t̪ˈaː6w zˈaː lˈəː6j tˈeɜ |0
+train_24k/train24k_0000000082.wav|tʃˈaː kˌɔn ˈe-ɲ ɲˌy ŋˈyə2j tˈən ɗˈi |0
+train_24k/train24k_0000000083.wav|bˈaː6n ɗˌaː5 kˈɔɜ kˈiɲ ŋˈiɛ6m zˈi2 t̪ˌy2 vˈiɛ6c tʃˈəːj tʃˈyɜŋ xwˈaːɜn fˈaːɜj sˈiɲ zˈo2j |0
+train_24k/train24k_0000000084.wav|zˈu xˈe-ɜc t̪ˌəːɜj tʃˈaː4j ŋˈiɛ6m tˈɛw lˈe6ɲ kˈəɜm |0
+train_24k/train24k_0000000085.wav|hˈɔ6 kˈɔɜ vˈyə6t̪ kwˈaː ɗˌyə6c xˌoŋ kˌaːɜc bˈɛɜ kˈu2ŋ |0
+train_24k/train24k_0000000086.wav|ɗˌyə6c mˈo6t̪ vˈi6 sˈy ɗˈi hˈe-2ɲ hˈyəŋ ŋˈaːŋ kwˈaː |0
+train_24k/train24k_0000000087.wav|tˈyə2ŋ xˌi t̪ˈəm ˈəː4 tʃˈaː6ŋ tˈaːɜj tʃˈuŋ lˈə6p |0
+train_24k/train24k_0000000088.wav|mˌɔ6j ŋˈyə2j t̪ˈəɜt̪ ɲˈiɛn xˌi bˈiɛɜt̪ hˈɔ6 sˌɛ5 xˌoŋ |0
+train_24k/train24k_0000000089.wav|kˈo tʃˈiɛw kˌɔn kˌuə4 ɗˈaː6j zˈaː tʃˈɔŋ tˈe-2ɲ fˈoɜ |0
+train_24k/train24k_0000000090.wav|tʃˌɔ kˈo kˈo ŋˈi5 ɗˈəɪ mˈəːɜj tʃˈiɜɲ lˌaː2 kˈuə6c |0
+train_24k/train24k_0000000091.wav|nˌeɜw xˌoŋ ɗˌyə6c t̪ˈoj kˈu5ŋ mˈuəɜn ɗˌyə6c ɲˈi2n |0
+train_24k/train24k_0000000092.wav|kˈɔɜ tˈe4 ɗˌaː5 kˈɔɜ mˈo6t̪ kˈuə6c sˈoɜŋ hˈe-6ɲ fˈuɜc vˈəː6 |0
+train_24k/train24k_0000000093.wav|sˈe-ɜc sˈaːɜŋ ŋˈa2j mˈaːj lˈaː6j mˈəɪɜ tʃˈy5 mˈəːɜj ɣˈi |0
+train_24k/train24k_0000000094.wav|vˈiɛn hˈyəɜŋ zˈə5n vˈiɛn zˈu lˈi6c ɣˈa6p kˈəːn ɗˈiɛn |0
+train_24k/train24k_0000000095.wav|ˈe-4ɲ kˌuə4 mˈo6t̪ kˈuəɜn kˈiɲ tˈe-ɜɲ mˈo6t̪ kˈuəɜn |0
+train_24k/train24k_0000000096.wav|ɲˈaː2 ŋˈiɛn kˈiɜw zwˈe-ɲ ɲˈən vˌaː2 vˈə6n ɗˈo6ŋ |0
+train_24k/train24k_0000000097.wav|t̪ˈoj kˈɔj lˌaː2 kˌɔn ŋˈyə2j bˈi2ɲ tˈyə2ŋ tˈy6c sˈy6 |0
+train_24k/train24k_0000000098.wav|zˈəː2 kˈɔɜ tʃˌɔ fˈɛɜp ˈɛm tʃwˈiɛ4n sˈaːŋ mˈo6t̪ mˈon |0
+train_24k/train24k_0000000099.wav|vˈe2 ɲˈaː2 t̪ˈoj nˈɔɜ ɣˈa6p bˈoɜ t̪ˈoj vˌaː2 sˈin t̪ˈi2m hˈiɛ4w |0
